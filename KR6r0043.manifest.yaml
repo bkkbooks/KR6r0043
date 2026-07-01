@@ -1,0 +1,294 @@
+canonical_identifier: bkk:krp/KR6r0043/v1
+canonical_location: https://kanripo.org/bkk/KR6r0043/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 大唐大慈恩寺三藏法師傳
+  identifiers:
+    alt_id:
+    - T50n2053
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T50/T50n2053.xml
+    old_id: T50n2053
+  edition:
+    short: bkk
+editions:
+- short: 甲
+  label: 甲
+  source_xml_id: wit1
+- short: 宋
+  label: 宋
+  source_xml_id: wit2
+- short: 元
+  label: 元
+  source_xml_id: wit3
+- short: 明
+  label: 明
+  source_xml_id: wit4
+- short: 宮
+  label: 宮
+  source_xml_id: wit5
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0043_000.yaml, hash: 'sha256:d3f456e7042ddd6753bc391142202c4949a5accf42b1ef53881c4d33d199bb6b'}
+  - {seq: 1, filename: KR6r0043_001.yaml, hash: 'sha256:50e5098064cc5c777eda1ba1222ca913bbdc93a1f27351515ccfc4a420c09021'}
+  - {seq: 2, filename: KR6r0043_002.yaml, hash: 'sha256:e1a1ab0140271026434da0944b9c1121caf0d680f689876480f299b730b8e138'}
+  - {seq: 3, filename: KR6r0043_003.yaml, hash: 'sha256:2b2e4e233c14e00aeae1b1f0883e620213d1c0dbb64494f7c6c6e4fbca7ce8e1'}
+  - {seq: 4, filename: KR6r0043_004.yaml, hash: 'sha256:5714d7932a017c850abcc4e53f8ace29b672c8c68c21b290bad16e344b0fe0d0'}
+  - {seq: 5, filename: KR6r0043_005.yaml, hash: 'sha256:f562e1a26c908721556a64c5913a1ddcf349fd6ea6ec40360e731ae3dd747813'}
+  - {seq: 6, filename: KR6r0043_006.yaml, hash: 'sha256:88b314a47aa46b7a83d06121cce637fb8da94b561b405ff8dcdb0060e638eabc'}
+  - {seq: 7, filename: KR6r0043_007.yaml, hash: 'sha256:7c4b04695060b9c00afca1cfe68813526d98d7499e7ca9b5c77dcbc7810e0f03'}
+  - {seq: 8, filename: KR6r0043_008.yaml, hash: 'sha256:af6b601389faa0e77e1e33cb802de21cdc6b57544ef8f7643bac301231283232'}
+  - {seq: 9, filename: KR6r0043_009.yaml, hash: 'sha256:60f00d1b53e553b5cd7a1a72c798c50eba724b1ae1117fce48e800072e8017b0'}
+  - {seq: 10, filename: KR6r0043_010.yaml, hash: 'sha256:8d60ffc1382c5767d404e88c6520517302b6228cb99af543cd6bc4ac97db34f0'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6r0043_000.markers.yaml, hash: 'sha256:6b5dd4249fd466dcd73eafd94de1a798dc97d5773994a8f8ecf4f4ecb842a178'}
+  - {seq: 1, role: markers, filename: assets/KR6r0043_001.markers.yaml, hash: 'sha256:e3039f2b46c0f61dc9599b16fc3efae79bd62db6a0384f7b41dd3967887a371a'}
+  - {seq: 2, role: markers, filename: assets/KR6r0043_002.markers.yaml, hash: 'sha256:ebba876bb92ddcce0d4166bf61af1248567ad904e5ce6018f7f6e875b9185206'}
+  - {seq: 3, role: markers, filename: assets/KR6r0043_003.markers.yaml, hash: 'sha256:0779134f4054db993b121b44a7874a7e43e099775a047550e6e83de938904030'}
+  - {seq: 4, role: markers, filename: assets/KR6r0043_004.markers.yaml, hash: 'sha256:4c0694d75059d21fda4f2cff9be68585b14251117fa41cb211328a3102e338a0'}
+  - {seq: 5, role: markers, filename: assets/KR6r0043_005.markers.yaml, hash: 'sha256:0fa34e468214d272ad1269331b0d9d635bab5e553d003226381c69d11d2fb765'}
+  - {seq: 6, role: markers, filename: assets/KR6r0043_006.markers.yaml, hash: 'sha256:3200d808778b849d2c9fedd05c4693c8b09859b769f07580b14c91ed279c56e8'}
+  - {seq: 7, role: markers, filename: assets/KR6r0043_007.markers.yaml, hash: 'sha256:c1b6039f5abfcdee079942859ed2d2fbae7bf5ceb63893215f7c1972f58566f9'}
+  - {seq: 8, role: markers, filename: assets/KR6r0043_008.markers.yaml, hash: 'sha256:7b5ad0e97df1222544b9bf45269952c3e47306116ac2ac0f5535b5584a5a8c32'}
+  - {seq: 9, role: markers, filename: assets/KR6r0043_009.markers.yaml, hash: 'sha256:b09857257848523e22154e98b5d2bd983b3b46ccde84933e3ef96b437d0fb8d7'}
+  - {seq: 10, role: markers, filename: assets/KR6r0043_010.markers.yaml, hash: 'sha256:9ab90576a9cf19916ae88ede46c203820846029db158703371e197c1cc00a7ba'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6r0043_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 大唐大慈恩寺三藏法師傳序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0043_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 6445
+  label: 大慈恩寺三藏法師傳卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0043_T_001-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 起載誕於緱氏終西屆于高昌
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0043_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 10361
+  label: '大唐大慈恩寺三藏法師傳卷
+
+    第二'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0043_T_002-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 起阿耆尼國終羯若鞠闍國
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0043_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 9122
+  label: '大唐大慈恩寺三藏法師傳卷
+
+    第三'
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0043_T_003-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 起阿踰陀國終伊爛拏國
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0043_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 7982
+  label: '大唐大慈恩寺三藏法師傳卷
+
+    第四'
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0043_T_004-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 起瞻波國終迦摩縷波國王請
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0043_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 9027
+  label: '大唐大慈恩寺三藏法師傳卷
+
+    第五'
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0043_T_005-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 起尼乾占歸國終至帝城之西漕
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0043_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 6372
+  label: '大唐大慈恩寺三藏法師傳卷
+
+    第六'
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0043_T_006-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 起十九年春正月入西京終二十二年夏六月謝御製經序并答
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0043_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 6835
+  label: '大唐大慈恩寺三藏法師傳卷
+
+    第七'
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0043_T_007-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 起二十二年六月　天皇製述聖記終永徽五年春二月法師答書
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0043_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 7287
+  label: '大唐大慈恩寺三藏法師傳卷
+
+    第八'
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0043_T_008-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 起永徽六年夏五月譯理門論終顯慶元年春三月　百官謝示御製寺碑文
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0043_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 9865
+  label: '大唐大慈恩寺三藏法師傳卷
+
+    第九'
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0043_T_009-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 起顯慶元年三月謝慈恩寺碑成終三年正月隨車駕還西京
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0043_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 5924
+  label: '大唐大慈恩寺三藏法師傳卷
+
+    第十'
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0043_T_010-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 起顯慶三年正月隨車駕自洛還西京至麟德元年二月玉華宮捨化
+  type: mulu
+  level: 1
+hash: sha256:2f3f17b5fcf6e3893fa3b42582efec7ceb1930162801b1495fe9845ad94ea6d7
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
