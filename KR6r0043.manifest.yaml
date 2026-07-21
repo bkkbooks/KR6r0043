@@ -36,7 +36,7 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6r0043_000.yaml, hash: 'sha256:afc54dad8adf02afae27922a3e14ff03e108c2231a1949ee7dc950a8adb957a6'}
+  - {seq: 0, filename: KR6r0043_000.yaml, hash: 'sha256:e77867aada1acca8e054bc993ddd63e6bfbdff4d4add171980f43f0362dcd5d7'}
   - {seq: 1, filename: KR6r0043_001.yaml, hash: 'sha256:7bd4117df316276497d8f1d17a448274cbc2f52e023f971a40efbc638549fe91'}
   - {seq: 2, filename: KR6r0043_002.yaml, hash: 'sha256:c57f5f98d1a814b30ecbc643191797287b66e5afbff3f691d8e6bdfa160cec81'}
   - {seq: 3, filename: KR6r0043_003.yaml, hash: 'sha256:90021be433a8839b060a61cb950b6705ec62b36fb4942fab34ec8a57282be2e5'}
@@ -48,7 +48,7 @@ assets:
   - {seq: 9, filename: KR6r0043_009.yaml, hash: 'sha256:56eb36a4accc635c70ac9569ed9aa7ac895e6ef28327b4e47823857b0f40a570'}
   - {seq: 10, filename: KR6r0043_010.yaml, hash: 'sha256:e2e18507d49021125daa946ff0575b3570ee7c195b5152119fa7ee9ca6dcb82c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0043_000.markers.yaml, hash: 'sha256:93c2db095834afb4ec1e341a473091aa57605f15cca95880929a57d5fb10ce73'}
+  - {seq: 0, role: markers, filename: assets/KR6r0043_000.markers.yaml, hash: 'sha256:a763cdb48727c551c30a007f9c6a7a9bb69657d4bff4f776482f5093991a6ce4'}
   - {seq: 1, role: markers, filename: assets/KR6r0043_001.markers.yaml, hash: 'sha256:9ee06d7371a46e9ff2a5c3c42f5ad47f6820bb9782a0a750a41f162b408e94a2'}
   - {seq: 2, role: markers, filename: assets/KR6r0043_002.markers.yaml, hash: 'sha256:7f9ec597520a54d13111408421dafe01ddcf199e538bdfc0b36498ce80830a2e'}
   - {seq: 3, role: markers, filename: assets/KR6r0043_003.markers.yaml, hash: 'sha256:37a211b5ad571106e9d6a84efd4af70038c37c89b16c899ed00da92cbfdc2db4'}
@@ -64,7 +64,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0043_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 大唐大慈恩寺三藏法師傳序
@@ -288,7 +288,7 @@ table_of_contents:
   label: 起顯慶三年正月隨車駕自洛還西京至麟德元年二月玉華宮捨化
   type: mulu
   level: 1
-hash: sha256:78168f2933ecf3470214a514518588310565f0b093ece8d690abeb386d973c93
+hash: sha256:38e91214e86c708a6061134e7459ffcfc4491af9cd50d4709dd49260c364faf9
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
